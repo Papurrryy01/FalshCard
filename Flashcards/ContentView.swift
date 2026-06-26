@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  106
+//  Flashcards
 //
-//  Created by Carlos Vera on 6/15/26.
+//  Created by Jonathan Heinzman on 6/17/26.
 //
 
 import SwiftUI

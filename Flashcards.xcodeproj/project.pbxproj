@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		73C94DBF2FE0D32E00C50D4D /* 106.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 106.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6BF887152FE34142002DE678 /* Flashcards.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Flashcards.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		73C94DC12FE0D32E00C50D4D /* 106 */ = {
+		6BF887172FE34142002DE678 /* Flashcards */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = 106;
+			path = Flashcards;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		73C94DBC2FE0D32E00C50D4D /* Frameworks */ = {
+		6BF887122FE34142002DE678 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		73C94DB62FE0D32E00C50D4D = {
+		6BF8870C2FE34142002DE678 = {
 			isa = PBXGroup;
 			children = (
-				73C94DC12FE0D32E00C50D4D /* 106 */,
-				73C94DC02FE0D32E00C50D4D /* Products */,
+				6BF887172FE34142002DE678 /* Flashcards */,
+				6BF887162FE34142002DE678 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		73C94DC02FE0D32E00C50D4D /* Products */ = {
+		6BF887162FE34142002DE678 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				73C94DBF2FE0D32E00C50D4D /* 106.app */,
+				6BF887152FE34142002DE678 /* Flashcards.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		73C94DBE2FE0D32E00C50D4D /* 106 */ = {
+		6BF887142FE34142002DE678 /* Flashcards */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 73C94DCA2FE0D33000C50D4D /* Build configuration list for PBXNativeTarget "106" */;
+			buildConfigurationList = 6BF887202FE34143002DE678 /* Build configuration list for PBXNativeTarget "Flashcards" */;
 			buildPhases = (
-				73C94DBB2FE0D32E00C50D4D /* Sources */,
-				73C94DBC2FE0D32E00C50D4D /* Frameworks */,
-				73C94DBD2FE0D32E00C50D4D /* Resources */,
+				6BF887112FE34142002DE678 /* Sources */,
+				6BF887122FE34142002DE678 /* Frameworks */,
+				6BF887132FE34142002DE678 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				73C94DC12FE0D32E00C50D4D /* 106 */,
+				6BF887172FE34142002DE678 /* Flashcards */,
 			);
-			name = 106;
+			name = Flashcards;
 			packageProductDependencies = (
 			);
-			productName = 106;
-			productReference = 73C94DBF2FE0D32E00C50D4D /* 106.app */;
+			productName = Flashcards;
+			productReference = 6BF887152FE34142002DE678 /* Flashcards.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		73C94DB72FE0D32E00C50D4D /* Project object */ = {
+		6BF8870D2FE34142002DE678 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2650;
 				LastUpgradeCheck = 2650;
 				TargetAttributes = {
-					73C94DBE2FE0D32E00C50D4D = {
+					6BF887142FE34142002DE678 = {
 						CreatedOnToolsVersion = 26.5;
 					};
 				};
 			};
-			buildConfigurationList = 73C94DBA2FE0D32E00C50D4D /* Build configuration list for PBXProject "106" */;
+			buildConfigurationList = 6BF887102FE34142002DE678 /* Build configuration list for PBXProject "Flashcards" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 73C94DB62FE0D32E00C50D4D;
+			mainGroup = 6BF8870C2FE34142002DE678;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 73C94DC02FE0D32E00C50D4D /* Products */;
+			productRefGroup = 6BF887162FE34142002DE678 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				73C94DBE2FE0D32E00C50D4D /* 106 */,
+				6BF887142FE34142002DE678 /* Flashcards */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		73C94DBD2FE0D32E00C50D4D /* Resources */ = {
+		6BF887132FE34142002DE678 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		73C94DBB2FE0D32E00C50D4D /* Sources */ = {
+		6BF887112FE34142002DE678 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		73C94DC82FE0D33000C50D4D /* Debug */ = {
+		6BF8871E2FE34143002DE678 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -160,7 +160,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = V8AV3ZN8W3;
+				DEVELOPMENT_TEAM = R394G2PC69;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -189,7 +189,7 @@
 			};
 			name = Debug;
 		};
-		73C94DC92FE0D33000C50D4D /* Release */ = {
+		6BF8871F2FE34143002DE678 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -224,7 +224,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = V8AV3ZN8W3;
+				DEVELOPMENT_TEAM = R394G2PC69;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -246,14 +246,14 @@
 			};
 			name = Release;
 		};
-		73C94DCB2FE0D33000C50D4D /* Debug */ = {
+		6BF887212FE34143002DE678 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = V8AV3ZN8W3;
+				DEVELOPMENT_TEAM = R394G2PC69;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -266,7 +266,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "project-106.-06";
+				PRODUCT_BUNDLE_IDENTIFIER = Jonathan.Flashcards;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -278,14 +278,14 @@
 			};
 			name = Debug;
 		};
-		73C94DCC2FE0D33000C50D4D /* Release */ = {
+		6BF887222FE34143002DE678 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = V8AV3ZN8W3;
+				DEVELOPMENT_TEAM = R394G2PC69;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -298,7 +298,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "project-106.-06";
+				PRODUCT_BUNDLE_IDENTIFIER = Jonathan.Flashcards;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -313,25 +313,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		73C94DBA2FE0D32E00C50D4D /* Build configuration list for PBXProject "106" */ = {
+		6BF887102FE34142002DE678 /* Build configuration list for PBXProject "Flashcards" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				73C94DC82FE0D33000C50D4D /* Debug */,
-				73C94DC92FE0D33000C50D4D /* Release */,
+				6BF8871E2FE34143002DE678 /* Debug */,
+				6BF8871F2FE34143002DE678 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		73C94DCA2FE0D33000C50D4D /* Build configuration list for PBXNativeTarget "106" */ = {
+		6BF887202FE34143002DE678 /* Build configuration list for PBXNativeTarget "Flashcards" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				73C94DCB2FE0D33000C50D4D /* Debug */,
-				73C94DCC2FE0D33000C50D4D /* Release */,
+				6BF887212FE34143002DE678 /* Debug */,
+				6BF887222FE34143002DE678 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 73C94DB72FE0D32E00C50D4D /* Project object */;
+	rootObject = 6BF8870D2FE34142002DE678 /* Project object */;
 }
